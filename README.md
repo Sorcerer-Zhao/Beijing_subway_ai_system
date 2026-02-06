@@ -108,7 +108,7 @@ pip install -r requirements.txt
 	下载仓库到本地，按照requirment.txt中的要求设置虚拟环境venv；
 	在  https://github.com/hiyouga/LlamaFactory  这个连接里下载LLaMA-Factory，并放进本项目的主文件夹里；
 	将本项目主文件夹下 LLaMA-Factory_api 里面所有的项目都拷贝到你刚才下载的LLaMA-Factory\src里面；
-	在Hugging Face上下载Qwen_Subway_ai_rational_ultra 7B 微调后大模型，并将下载后的文件放进本项目的主文件夹下。
+	在Hugging Face上下载Qwen_Subway_ai_rational_ultra 7B 微调后大模型，并将下载后的文件放进本项目的主文件夹下；
 	双击本项目主文件夹下的Start.bat，等待全部信息加载成功，即Server控制台和模型控制台都出现了“INFO:     Uvicorn running on【你的本地网址】”，并且前端已经在你默认的浏览器中打开。好！你就可以开始享受本项目从A到B的便捷导航了。
 ---
 
